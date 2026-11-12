@@ -1,161 +1,161 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12091F,50:6D28D9,100:B794F4&height=220&section=header&text=Geovana%20Andrade&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Entrepreneur&descAlignY=58&descSize=17" />
+# Geovana Andrade
+
+**Software Engineer · Entrepreneur · Creative Thinker**
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&lines=Transformando+ideias+em+produtos;Tecnologia+%2B+Neg%C3%B3cios+%2B+Criatividade;Building+things+that+matter;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1200&color=9D7AF5&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+produtos.;Tecnologia+encontra+empreendedorismo.;Building+things+that+matter.;Always+learning.+Always+building." alt="Apresentação animada" />
 </a>
 
 <br/>
 
-![Engineering](https://img.shields.io/badge/Software-Engineering-6D28D9?style=flat-square&labelColor=171321)
-![Business](https://img.shields.io/badge/Business-Entrepreneurship-6D28D9?style=flat-square&labelColor=171321)
-![Hackathons](https://img.shields.io/badge/Hackathons-7%2F7_Podiums-A78BFA?style=flat-square&labelColor=171321)
+`SOFTWARE ENGINEERING` &nbsp; · &nbsp; `BUSINESS` &nbsp; · &nbsp; `INNOVATION`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-andradegeovana-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/andradegeovana)
 
 </div>
 
-<br/>
+---
 
-## ✦ Olá, eu sou a Geovana!
+## 01 / About Me
 
-Sou **Engenheira de Software e empreendedora**, apaixonada por transformar ideias em soluções reais.
+Sou **Engenheira de Software e empreendedora**, apaixonada por transformar ideias em soluções que geram valor.
 
-Minha trajetória conecta dois universos que adoro: **tecnologia e negócios**.
+Minha experiência conecta desenvolvimento de software, web design, e-commerce e estratégia digital. Gosto de pensar além do código, compreendendo todo o ciclo de um produto — da interface à experiência do usuário, da estratégia à venda.
 
-Além do desenvolvimento de software, tenho experiência com web design, e-commerce e estratégia digital. Gosto de pensar além do código, entendendo o produto desde sua concepção até a experiência do usuário e seu impacto no mercado.
+O empreendedorismo faz parte da minha trajetória. Sou dona de empresas e acredito que a tecnologia é uma das ferramentas mais poderosas para criar oportunidades.
 
-O empreendedorismo é uma das minhas maiores paixões. Sou dona de empresas e acredito no poder da tecnologia para criar oportunidades e transformar negócios.
-
-<br/>
-
-```typescript
+```javascript
 const geovana = {
-  role: "Software Engineer",
-  passion: "Entrepreneurship",
-
-  skills: [
-    "Software Development",
-    "Web Design",
-    "E-commerce",
-    "Digital Strategy"
-  ],
-
-  achievements: {
-    hackathons: "7/7 podiums",
-    huawei: "1st place LATAM",
-    sap: "1st place International"
-  },
-
-  currentlyLearning: [
-    "Business",
-    "English",
-    "New Technologies"
-  ],
-
-  motto: "Build with purpose."
+  background: "Software Engineering",
+  mindset: "Entrepreneurial",
+  interests: ["Technology", "Design", "Business"],
+  hackathons: "7 participations · 7 podiums",
+  currently: ["Building", "Learning", "Growing"],
+  philosophy: "Technology with purpose."
 };
 ```
 
-<br/>
+---
 
-## ✦ Beyond the Code
+## 02 / Highlights & Achievements
 
 <div align="center">
 
-| 🏆 | 🌎 | 🥇 |
-|:---:|:---:|:---:|
-| **7 / 7** | **1º LATAM** | **1º Internacional** |
-| Hackathons | Huawei | SAP ERPsim |
-| 7 participações, 7 pódios | Seeds for the Future | Competição de empreendedorismo |
+### 7 Hackathons. 7 Podiums.
+
+*Transformando desafios em resultados.*
+
+| Reconhecimento | Competição | Resultado |
+|:---|:---|:---|
+| 🏆 **Hackathons** | 7 competições | **7 pódios** |
+| 🌎 **Huawei** | Seeds for the Future | **1º lugar na América Latina** |
+| 🥇 **SAP** | ERPsim Game | **1º lugar internacional** |
 
 </div>
 
-<br/>
+---
 
-## ✦ Tech Stack
+## 03 / Tech Stack
 
 <div align="center">
 
-**Languages**
+**LANGUAGES**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,php,html,css&theme=dark" />
+![TypeScript](https://img.shields.io/badge/TypeScript-242038?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-242038?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-242038?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![PHP](https://img.shields.io/badge/PHP-242038?style=flat-square&logo=php&logoColor=777BB4)
+![HTML5](https://img.shields.io/badge/HTML5-242038?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-242038?style=flat-square&logo=css&logoColor=1572B6)
+
+<br/>
+
+**FRAMEWORKS & PLATFORMS**
+
+<br/>
+
+![Angular](https://img.shields.io/badge/Angular-242038?style=flat-square&logo=angular&logoColor=DD0031)
+![Ionic](https://img.shields.io/badge/Ionic-242038?style=flat-square&logo=ionic&logoColor=3880FF)
+![WordPress](https://img.shields.io/badge/WordPress-242038?style=flat-square&logo=wordpress&logoColor=21759B)
+
+<br/>
+
+**DESIGN & DEVELOPMENT TOOLS**
+
+<br/>
+
+![Figma](https://img.shields.io/badge/Figma-242038?style=flat-square&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-242038?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-242038?style=flat-square&logo=github&logoColor=FFFFFF)
+
+</div>
+
+---
+
+## 04 / Certifications & Methodologies
+
+Acredito que desenvolver um bom software vai muito além de escrever código. Qualidade, colaboração, planejamento e melhoria contínua fazem parte de todo o processo.
+
+### Certifications
+
+| Certificação | Área de conhecimento |
+|:---|:---|
+| 🎓 **Scrum Master** | Gestão ágil, facilitação de equipes e processos Scrum |
+| 🎓 **Software Testing** | Qualidade de software, estratégias e fundamentos de testes |
+
+### Methodologies & Practices
+
+| Área | Práticas e conhecimentos |
+|:---|:---|
+| **Agile Mindset** | Desenvolvimento iterativo, adaptação e entrega contínua de valor |
+| **Scrum Framework** | Sprints, planejamento, retrospectivas e colaboração |
+| **Software Quality** | Testes, prevenção de defeitos e melhoria da qualidade |
+| **Product Thinking** | Experiência do usuário, visão de negócio e foco em resultados |
+| **Team Collaboration** | Comunicação, organização e trabalho multidisciplinar |
+
+<div align="center">
+
+<br/>
+
+`AGILE` &nbsp; `SCRUM` &nbsp; `SOFTWARE TESTING` &nbsp; `PRODUCT THINKING`
+
+</div>
+
+---
+
+## 05 / GitHub Activity
+
+<div align="center">
+
+**Acompanhe meus projetos, experimentos e contribuições.**
+
+<br/>
+
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andradegeovana?tab=repositories)
 
 <br/><br/>
 
-**Frameworks & Platforms**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=angular,ionic,wordpress&theme=dark" />
-
-<br/><br/>
-
-**Tools & Design**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
+[![Activity](https://img.shields.io/badge/View-My_Contributions-242038?style=flat-square&logo=github&logoColor=A78BFA)](https://github.com/andradegeovana)
 
 </div>
 
-<br/>
+---
 
-## ✦ Certifications & Methodologies
+## 06 / Currently Exploring
 
-<div align="center">
+- **Engineering:** aprofundando conhecimentos técnicos e boas práticas de desenvolvimento.
+- **Entrepreneurship:** explorando oportunidades, estratégias e novos modelos de negócios.
+- **English:** desenvolvendo fluência para conexões e oportunidades internacionais.
+- **Innovation:** transformando aprendizado em projetos e experiências reais.
 
-![Agile](https://img.shields.io/badge/Agile-Methodologies-171321?style=for-the-badge&logo=jira&logoColor=A78BFA)
-![Scrum](https://img.shields.io/badge/Scrum-171321?style=for-the-badge)
-![Scrum Master](https://img.shields.io/badge/Certified-Scrum_Master-6D28D9?style=for-the-badge)
-![Software Testing](https://img.shields.io/badge/Certified-Software_Testing-6D28D9?style=for-the-badge)
-
-</div>
-
-<br/>
-
-## ✦ GitHub Analytics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=andradegeovana&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=888888&include_all_commits=true" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradegeovana&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=888888" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=andradegeovana&bg_color=00000000&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" />
-
-</div>
-
-<br/>
-
-## ✦ Selected Projects
-
-<div align="center">
-
-<a href="https://github.com/andradegeovana/calculadora-ionic">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=andradegeovana&repo=calculadora-ionic&bg_color=00000000&title_color=A78BFA&text_color=888888&icon_color=8B5CF6&hide_border=true" />
-</a>
-
-<a href="https://github.com/andradegeovana/lista-compras">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=andradegeovana&repo=lista-compras&bg_color=00000000&title_color=A78BFA&text_color=888888&icon_color=8B5CF6&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
-## ✦ What I'm Focusing On
-
-- 💻 Aprofundando minhas habilidades em engenharia de software.
-- 🚀 Explorando novas oportunidades de negócios.
-- 🌎 Desenvolvendo meu inglês para conexões internacionais.
-- ✨ Aprendendo, criando e evoluindo constantemente.
-
-<br/>
+---
 
 <div align="center">
 
@@ -165,16 +165,14 @@ const geovana = {
 
 <br/>
 
-<a href="https://github.com/andradegeovana">
-<img src="https://img.shields.io/badge/Explore_my_GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**Technology · Creativity · Business**
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=andradegeovana&label=Profile%20Views&color=6D28D9&style=flat-square" />
+[![Profile](https://img.shields.io/badge/Geovana_Andrade-GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andradegeovana)
 
-<br/><br/>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B794F4,50:6D28D9,100:12091F&height=110&section=footer" />
+<sub>Designed with purpose. Built with curiosity.</sub>
 
 </div>
