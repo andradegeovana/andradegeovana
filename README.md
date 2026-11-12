@@ -14,12 +14,12 @@
 
 ## ✨ Sobre mim
 
-Sou formada em Engenharia de Software e trago na bagagem uma mistura pouco comum: **código + negócios**. Além de desenvolver, já atuei com web design, e-commerce e estratégia de conteúdo, então gosto de pensar no produto inteiro: da interface à venda.
+Sou formada em Engenharia de Software e tenho um diferencial pouco comum: **código + negócios**. Além de desenvolver, já atuei com web design, e-commerce e estratégia de conteúdo, penso no produto inteiro: da interface à venda. Sou dona de algumas empresas, o empreendedorismo é minha paixão.
 
 - 🏆 Participei de **7 hackathons e fiquei no pódio em todos**
 - 🌎 **1º lugar na América Latina** no *Seeds for the Future* (Huawei)
 - 🚀 **1º lugar** na competição internacional de empreendedorismo da SAP (**ERPsim Game**)
-- 🌱 Sempre aprendendo: agora focada em melhorar meu inglês e aprofundar minhas habilidades técnicas
+- 🌱 Sempre aprendendo: agora focada negócios, inglês e aprofundar minhas habilidades técnicas
 
 ## 🛠️ Tecnologias
 
