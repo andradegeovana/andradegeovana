@@ -106,19 +106,7 @@ Atuo na conexão entre **software, IA, educação, design e negócios**, com exp
 
 </div>
 
-### ✦ GitHub Activity
-
 <div align="center">
-
-<a href="https://github.com/andradegeovana">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=andradegeovana&bg_color=00000000&color=FF168A&line=6D00E8&point=0057FF&area=true&area_color=6D00E8&hide_border=true&hide_title=true" alt="GitHub Activity Graph" />
-</a>
-
-<a href="https://github.com/andradegeovana?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-6D00E8?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
-</a>
-
-<br/>
 
 **Code. Create. Innovate.**
 
