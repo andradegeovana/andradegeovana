@@ -40,6 +40,15 @@ Sou formada em Engenharia de Software e tenho um diferencial pouco comum: **cód
 
 <p align="center"><i>…e muito mais ✨</i></p>
 
+## 📋 Metodologias e certificações
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Metodologias_%C3%81geis-1c1c2b?style=for-the-badge&logo=jira&logoColor=2684FF" alt="Metodologias Ágeis">
+  <img src="https://img.shields.io/badge/Scrum-1c1c2b?style=for-the-badge&logo=scrumalliance&logoColor=009FDA" alt="Scrum">
+  <img src="https://img.shields.io/badge/Certificada-Scrum_Master-1c1c2b?style=for-the-badge&labelColor=6d28d9" alt="Certificada Scrum Master">
+  <img src="https://img.shields.io/badge/Certificada-Teste_de_Software-1c1c2b?style=for-the-badge&labelColor=6d28d9" alt="Certificada em Teste de Software">
+</p>
+
 ---
 
 <div align="center">
