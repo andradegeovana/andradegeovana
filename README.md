@@ -17,7 +17,7 @@
 
 ### ✦ Sobre mim
 
-Sou **Engenheira de Software, empreendedora e ex-professora de programação** no projeto **Pensamento Computacional**.
+Sou **Engenheira de Software, empreendedora e ex-professora de programação**.
 
 Atuo na conexão entre **software, IA, educação, design e negócios**, com experiência em web design, e-commerce, estratégia digital e gestão de empresas. Gosto de transformar ideias em produtos reais e compartilhar conhecimento.
 
