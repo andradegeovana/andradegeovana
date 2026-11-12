@@ -1,31 +1,25 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7028E4,50:E843C4,100:298CFF&height=205&section=header&text=Geovana%20Andrade&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20ENTREPRENEUR&descAlignY=59&descSize=15" alt="Geovana Andrade" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D00E8,50:FF168A,100:0057FF&height=165&section=header&text=Geovana%20Andrade&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20ENTREPRENEUR&descAlignY=65&descSize=14" alt="Geovana Andrade" />
 
 <a href="https://github.com/andradegeovana">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2900&pause=1100&color=DA65F5&center=true&vCenter=true&width=650&lines=Technology+meets+creativity.;Software+%2B+AI+%2B+Business.;Turning+ideas+into+real+products.;Always+learning.+Always+building." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=950&color=FF168A&center=true&vCenter=true&width=620&height=30&lines=Technology+meets+creativity.;Software+%2B+AI+%2B+Business.;Turning+ideas+into+real+products.;Always+learning.+Always+building." alt="Animated introduction" />
 </a>
 
 <br/>
 
-![Software](https://img.shields.io/badge/SOFTWARE-7028E4?style=flat-square)
-![AI](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-E843C4?style=flat-square)
-![Business](https://img.shields.io/badge/ENTREPRENEURSHIP-298CFF?style=flat-square)
+![Software](https://img.shields.io/badge/SOFTWARE-6D00E8?style=flat-square)
+![AI](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-FF168A?style=flat-square)
+![Business](https://img.shields.io/badge/ENTREPRENEURSHIP-0057FF?style=flat-square)
 
 </div>
-
-<br/>
 
 ### ✦ Sobre mim
 
 Sou **Engenheira de Software, empreendedora e ex-professora de programação**.
 
-Minha trajetória conecta **desenvolvimento de software, inteligência artificial, educação, design e negócios**. Tenho experiência com web design, e-commerce e estratégia digital, além de atuar no empreendedorismo à frente de empresas.
-
-Gosto de explorar novas tecnologias e transformar ideias em produtos que geram impacto real.
-
-<br/>
+Atuo na conexão entre **software, IA, educação, design e negócios**, com experiência em web design, e-commerce, estratégia digital e gestão de empresas. Gosto de transformar ideias em produtos reais e compartilhar conhecimento.
 
 <div align="center">
 
@@ -33,82 +27,84 @@ Gosto de explorar novas tecnologias e transformar ideias em produtos que geram i
 
 | 🏆 **7 / 7** | 🌎 **#1 LATAM** | 🥇 **#1 GLOBAL** |
 |:---:|:---:|:---:|
-| Hackathons | Huawei | SAP |
-| 7 pódios em 7 participações | Seeds for the Future | ERPsim Game |
+| Hackathons — 7 pódios | Huawei — Seeds for the Future | SAP — ERPsim Game |
 
 </div>
-
-<br/>
 
 ### ✦ Technologies & Tools
 
 <div align="center">
 
-**Software Development**
+**Languages & Core Development**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,php,html,css&theme=dark&perline=7" alt="Programming Languages" />
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,php,html,css,angular,ionic,wordpress,git,github,vscode&theme=dark&perline=12" alt="Development Technologies" />
+**Frontend & Mobile**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ionic,tailwind,bootstrap&theme=dark&perline=7" alt="Frontend Technologies" />
+
+![React Native](https://img.shields.io/badge/React_Native-202033?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,laravel,mysql,mongodb,postgres&theme=dark&perline=6" alt="Backend and Databases" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,wordpress&theme=dark&perline=6" alt="Development Tools" />
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0057FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Artificial Intelligence**
 
-<br/>
+![ChatGPT](https://img.shields.io/badge/ChatGPT-6D00E8?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF168A?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0057FF?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-6D00E8?style=flat-square&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-FF168A?style=flat-square)
 
-<img src="https://img.shields.io/badge/ChatGPT-7028E4?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Claude-E843C4?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-298CFF?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
+**Design, Product & Business**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark" alt="Design Tools" />
 
-**Design & Business**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
-
-<br/>
-
-<sub>UI/UX · Web Design · E-commerce · Digital Strategy · Entrepreneurship</sub>
+![Trello](https://img.shields.io/badge/Trello-6D00E8?style=flat-square&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-FF168A?style=flat-square&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-0057FF?style=flat-square&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-6D00E8?style=flat-square&logo=canva&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FF168A?style=flat-square&logo=miro&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-0057FF?style=flat-square&logo=powerbi&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-6D00E8?style=flat-square&logo=googleanalytics&logoColor=white)
 
 </div>
-
-<br/>
 
 ### ✦ Certifications & Methodologies
 
 <div align="center">
 
-| **Certifications** | **Methodologies & Expertise** |
+| 🎓 **Certifications** | ⚡ **Expertise** |
 |:---|:---|
-| 🎓 Scrum Master | Agile & Scrum |
-| 🎓 Software Testing | Quality Assurance |
-| | Product Thinking |
-| | Team Collaboration |
+| Scrum Master · Software Testing | Agile · Scrum · QA · Product Thinking · Team Collaboration |
 
 </div>
-
-<br/>
 
 ### ✦ GitHub Activity
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=andradegeovana&bg_color=00000000&color=DA65F5&line=E843C4&point=298CFF&area=true&area_color=7028E4&hide_border=true&hide_title=true" alt="GitHub Activity Graph" />
+<a href="https://github.com/andradegeovana">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=andradegeovana&bg_color=00000000&color=FF168A&line=6D00E8&point=0057FF&area=true&area_color=6D00E8&hide_border=true&hide_title=true" alt="GitHub Activity Graph" />
+</a>
+
+<a href="https://github.com/andradegeovana?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-6D00E8?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
+</a>
 
 <br/>
 
-<a href="https://github.com/andradegeovana?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-7028E4?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
-</a>
-
-<br/><br/>
-
 **Code. Create. Innovate.**
 
-*Great ideas deserve to become real.*
+<sub>Great ideas deserve to become real.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:298CFF,50:E843C4,100:7028E4&height=95&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,50:FF168A,100:6D00E8&height=70&section=footer" alt="Footer" />
 
 </div>
